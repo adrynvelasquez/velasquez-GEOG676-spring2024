@@ -1,10 +1,12 @@
 # velasquez-GEOG676-spring2024
-GIS Programming Class
+##GIS Programming Class
+
+|Labs    |
 |:-------|
-|[lab_1](lab 1/README.md)|
-|[lab_2](lab 2/README.md)|
-|[lab_3](lab 3/README.md)|
-|[lab_4](lab 4/README.md)|
-|[lab_5](lab 5/README.md)|
-|[lab_6](lab 6/README.md)|
-|[lab_7](lab 7/README.md)|
+|[Lab_01](Lab_01/README.md)|
+|[Lab_02](Lab_02/README.md)|
+|[Lab_03](Lab_03/README.md)|
+|[Lab_04](Lab_04/README.md)|
+|[Lab_05](Lab_05/README.md)|
+|[Lab_06](Lab_06/README.md)|
+|[Lab_07](Lab_07/README.md)|
